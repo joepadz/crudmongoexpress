@@ -23,3 +23,7 @@ node_modules
 in the package json.
 under script section type this 
 "devStart": "nodemon server.js"
+
+
+to run 
+npm start devStart
